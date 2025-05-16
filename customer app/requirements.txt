@@ -8,4 +8,5 @@
 \f0\fs26 \cf2 streamlit\
 pandas\
 scikit-learn\
-joblib}
+joblib\
+}
